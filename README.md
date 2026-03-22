@@ -6,6 +6,9 @@ Projeto desenvolvido para gerenciar cadastro de produtos, permitindo adicionar, 
 ## Funcionalidades
 
 - Cadastro de produtos
+- Cadastro de novos clientes
+- Sistema de login
+- Cadastro de novos STAFF's
 - Listagem de produtos
 - Atualização de dados
 - Remoção de produtos
