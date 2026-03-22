@@ -61,3 +61,7 @@ Tabela: Usuário
 
 - Gustavo Silveira Prado, Jeferson e Marcos.
 - Projeto desenvolvido para disciplina e aprendizado.
+
+## Status do projeto
+
+🚧 Em desenvolvimento
